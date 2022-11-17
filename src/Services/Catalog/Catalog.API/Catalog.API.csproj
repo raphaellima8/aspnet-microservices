@@ -16,10 +16,12 @@
     <None Remove="MongoDB.Driver" />
     <None Remove="Entities\" />
     <None Remove="Data\" />
+    <None Remove="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Entities\" />
     <Folder Include="Data\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 </Project>
