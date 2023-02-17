@@ -29,13 +29,13 @@ services:
       dockerfile: src/Services/Basket/Basket.API/Dockerfile
 
   discount.api:
-    image: ${DOCKER_REGISTRY-}discount
+    image: ${DOCKER_REGISTRY-}discount.api
     build:
       context: .
       dockerfile: src/Services/Discount.API/Dockerfile
 
   discount.grpc:
-    image: ${DOCKER_REGISTRY-}discount
+    image: ${DOCKER_REGISTRY-}discount.grpc
     build:
       context: .
       dockerfile: src/Services/Discount/Discount.Grpc/Dockerfile
