@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "isVdfSKEbRcy1UvBk0lrVpbb3xwNthy+/7XqW6JJduhrPfnRdeF86tTlk3I9fWKt78/WV7ddtyqTYc30TV4+Xw==",
+  "success": true,
+  "projectFilePath": "/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Infrastructure/Ordering.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/raphaellima/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
