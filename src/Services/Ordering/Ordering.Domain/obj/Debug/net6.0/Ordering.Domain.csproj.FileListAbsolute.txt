@@ -1,0 +1,12 @@
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net6.0/Ordering.Domain.deps.json
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net6.0/Ordering.Domain.dll
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/bin/Debug/net6.0/Ordering.Domain.pdb
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/Ordering.Domain.csproj.AssemblyReference.cache
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/Ordering.Domain.AssemblyInfoInputs.cache
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/Ordering.Domain.AssemblyInfo.cs
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/Ordering.Domain.csproj.CoreCompileInputs.cache
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/Ordering.Domain.dll
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/refint/Ordering.Domain.dll
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/Ordering.Domain.pdb
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Domain/obj/Debug/net6.0/ref/Ordering.Domain.dll
