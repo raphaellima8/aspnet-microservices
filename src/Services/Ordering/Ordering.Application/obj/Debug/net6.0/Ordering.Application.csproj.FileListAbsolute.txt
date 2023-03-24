@@ -1,0 +1,15 @@
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/bin/Debug/net6.0/Ordering.Application.deps.json
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/bin/Debug/net6.0/Ordering.Application.dll
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/bin/Debug/net6.0/Ordering.Application.pdb
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/bin/Debug/net6.0/Ordering.Domain.dll
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/bin/Debug/net6.0/Ordering.Domain.pdb
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.csproj.AssemblyReference.cache
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.AssemblyInfoInputs.cache
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.AssemblyInfo.cs
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.csproj.CoreCompileInputs.cache
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.csproj.CopyComplete
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.dll
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/refint/Ordering.Application.dll
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/Ordering.Application.pdb
+/Users/raphaellima/projects/aspnetrun-microservices/src/Services/Ordering/Ordering.Application/obj/Debug/net6.0/ref/Ordering.Application.dll
