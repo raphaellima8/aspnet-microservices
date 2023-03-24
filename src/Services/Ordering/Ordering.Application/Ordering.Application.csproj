@@ -32,6 +32,8 @@
     <None Remove="Features\Orders\Commands\UpdateOrder\" />
     <None Remove="Features\Orders\Commands\DeleteOrder\" />
     <None Remove="Exceptions\" />
+    <None Remove="AutoMapper.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="FluentValidation.DependencyInjectionExtensions" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Behaviours\" />
@@ -55,5 +57,7 @@
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
     <PackageReference Include="FluentValidation" Version="11.5.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.1" />
   </ItemGroup>
 </Project>
