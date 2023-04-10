@@ -15,6 +15,7 @@
     <None Remove="Repositories\" />
     <None Remove="Mail\" />
     <None Remove="SendGrid" />
+    <None Remove="Microsoft.EntityFrameworkCore.Design" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Persistence\" />

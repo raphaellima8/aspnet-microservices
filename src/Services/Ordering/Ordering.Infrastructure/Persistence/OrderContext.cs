@@ -9,10 +9,9 @@ namespace Ordering.Infrastructure.Persistence
     {
 		public DbSet<Order> Orders { get; set; }
 
-		public OrderContext(DbContextOptions<OrderContext> options) : base(options)
+        public OrderContext(DbContextOptions<OrderContext> options) : base(options)
 		{
 		}
-
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
             foreach (var entry in ChangeTracker.Entries<EntityBase>())
