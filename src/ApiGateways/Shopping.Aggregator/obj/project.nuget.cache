@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "S07iEEinbrS5sv0DvPlcRrCveHADLUrQ+XXF6oAjfxgxyJVEW5p1ERW6+3L3W4BthrXDKtBFcO4IH48y4boEdw==",
+  "success": true,
+  "projectFilePath": "/Users/raphaellima/projects/aspnetrun-microservices/src/ApiGateways/Shopping.Aggregator/Shopping.Aggregator.csproj",
+  "expectedPackageFiles": [
+    "/Users/raphaellima/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/raphaellima/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
